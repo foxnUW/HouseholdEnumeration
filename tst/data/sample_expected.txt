@@ -1,0 +1,11 @@
+The household at 234 2nd Ave, Tacoma, FL has 1 occupant:
+    Frank Jones, 234 2nd Ave, Tacoma, FL, 23
+The household at 123 Main St, Seattle, WA has 4 occupants:
+    Alice Smith, 123 Main St, Seattle, WA, 45
+    Dave Smith, 123 Main St, Seattle, WA, 43
+The household at 234 2nd Ave, Seattle, WA has 1 occupant:
+    Carol Johnson, 234 2nd Ave, Seattle, WA, 67
+The household at 345 3rd Blvd Apt. 200, Seattle, WA has 2 occupants:
+The household at 234 2nd Ave, Tacoma, WA has 2 occupants:
+    Eve Smith, 234 2nd Ave, Tacoma, WA, 25
+    Bob Williams, 234 2nd Ave, Tacoma, WA, 26
