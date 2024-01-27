@@ -35,7 +35,10 @@ It is noted this is not necessary when certain test harnesses are used, but that
 for such a simple program seemed unnecessary.
 
 ### Class Diagram
+<div hidden="hidden">
+
 ```plantuml
+@startuml classDiagram
 skinparam classAttributeIconSize 0
 class Solution {
     + {static} main(args : String[])
@@ -78,7 +81,11 @@ class Resident implements Comparable {
 Address -right-* Resident
 Address <.. Solution
 Resident <.. Solution
+@enduml
 ```
+</div>
+
+![class diagram](classDiagram.svg)
 
 ### Unit Testing
 
